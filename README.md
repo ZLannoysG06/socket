@@ -1,4 +1,4 @@
-//server_with_processes.py
+//server_with_threads.py
 
 from socket import *
 from fib import fib
